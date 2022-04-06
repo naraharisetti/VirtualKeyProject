@@ -71,6 +71,6 @@ o	Links to the GitHub repository to verify the project completion
 o	Your conclusion on enhancing the application and defining the USPs (Unique Selling Points)
 
 # Reference / Acknowledgement:
-Some part of the code is taken from https://github.com/MelvinWuHCL/VirtualKeyProject 
+Code is taken from https://github.com/MelvinWuHCL/VirtualKeyProject 
 
 Refactoring was done to reduce the number of packages, classes and methods.
